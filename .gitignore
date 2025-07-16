@@ -18,6 +18,8 @@
 
 # Monogit auto generated files
 mono_crash.*
+#sglite Files
+DBFiles/
 
 # Build results
 [Dd]ebug/
