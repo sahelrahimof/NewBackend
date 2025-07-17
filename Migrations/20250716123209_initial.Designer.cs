@@ -12,7 +12,7 @@ namespace secbackend.Migrations
 {
     [DbContext(typeof(LibraryDb))]
     [Migration("20250716123209_initial")]
-    partial class initial
+    partial class Initial
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
